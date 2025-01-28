@@ -1,13 +1,31 @@
-<h1 align="center">Hi 👋, I'm Lewis</h1>
-<h3 align="center">Welcome to my GitHub! I’m a beginner coder passionate about learning and building projects as I transition into a tech career.</h3>
+<h1 align="left">👋 Hi, I’m Lewis!</h1>
 
-- 🌱 I’m currently learning **Python, SQL, Tableau, Powerbi**
+###
 
-- 📫 How to reach me **lewisy123@live.co.uk**
+<p align="left">Welcome to my GitHub! I’m a beginner coder passionate about learning and building projects as I transition into a tech career.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🌱 Currently completing a skills bootcamp in data analysis<br><br>🔄 Learning: Power BI, Tableau, Python, SQL<br><br>🏆 Focused on mastering data visualization and analytics tools to uncover insights and solve problems<br><br>🚀 Goal: To grow my skills, showcase projects, and contribute to impactful work in data analysis</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
